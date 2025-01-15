@@ -3,7 +3,7 @@
  - analyzes the multiple pangenome alignments of the same query to the multiple reference genomes
  - limits the longest alignment search to the longest alignment.  
  - build a ancestral sequence based on the longest alignment. 
- - general note: Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
+ - please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 
 
   ```
